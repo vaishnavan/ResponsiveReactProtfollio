@@ -1,0 +1,22 @@
+.footer_main{
+    margin-top: 20px;
+    padding: 40px;
+    background-color: rgb(28, 104, 245);
+    color: white;
+}
+.footer_main a{
+    color: white;
+    font-size: 20px;
+}
+.footer_head p{
+    font-size: 16px;
+}
+.footer_main a:hover{
+    color: white;
+}
+.footer_links{
+    padding: 10px;
+}
+.footer-contact{
+    padding: 10px;
+}
